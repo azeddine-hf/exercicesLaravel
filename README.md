@@ -1,3 +1,16 @@
+<h2>Installation</h2>
+    <ol>
+        <li>Clone the repository:
+            <pre><code>git clone https://github.com/your-username/your-repository.git</code></pre>
+        </li>
+        <li>Install Composer dependencies:
+            <pre><code>composer install</code></pre>
+        </li>
+        <li>Set up the environment configuration:
+            <pre><code>cp .env.example .env</code></pre>
+        </li>
+        <!-- Add more installation steps as needed -->
+    </ol>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
